@@ -1,3 +1,4 @@
+import setuptools
 
 setuptools.setup(
     name='pytorch_zoo',
